@@ -1,0 +1,83 @@
+.box {
+  position: relative;
+}
+.q:before {
+  content: "Home";
+  position: absolute;
+  top: 25px;
+  left: 460px;
+  font-size: 30px;
+}
+.q2:before {
+  content: "Game";
+  position: absolute;
+  top: 25px;
+  left: 640px;
+  font-size: 30px;
+}
+.q3:before {
+  content: "Carp";
+  position: absolute;
+  top: 25px;
+  left: 820px;
+  font-size: 30px;
+}
+.q4:before {
+  content: "Instagram";
+  position: absolute;
+  top: 25px;
+  left: 980px;
+  font-size: 30px;
+}
+
+.q5:before {
+  content: "Map>";
+  position: absolute;
+  top: 290px;
+  left: 720px;
+  font-size: 40px;
+}
+.apple {
+  position: absolute;
+  top: 550px;
+  left: 510px;
+}
+.google {
+  position: absolute;
+  top: 550px;
+  left: 640px;
+}
+.s {
+  position: absolute;
+  top: 150px;
+  left: 720px;
+  font-size: 100px;
+}
+.p {
+  position: absolute;
+  top: 350px;
+  left: 720px;
+  font-size: 20px;
+}
+@import url(https://fonts.googleapis.com/css2?family=Foldit:wght@200&display=swap);
+.Homes {
+  position: absolute;
+  top: 25px;
+  left: 100px;
+  font-size: 100px;
+  color: yellow;
+  font-family: "Folditwght@200", cursive;
+}
+.hiroshimap {
+  position: absolute;
+  top: 229px;
+  left: 184px;
+}
+.square {
+  width: 700px;
+  height: 700px;
+  background-color: black;
+  position: absolute;
+  top: 190px;
+  left: 170px;
+}
